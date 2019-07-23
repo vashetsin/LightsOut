@@ -1,0 +1,5 @@
+All methods in the businesslogic project are covered with unit tests.
+Used Dependency injection (Autofac) and Mock technology.
+Almost there are no comments because program is quite simple and I assumed that everythin should be clear from the names of functions.
+Didn't spend much time on UI because it was said in requirements.
+Enjoy :)
